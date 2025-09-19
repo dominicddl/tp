@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Findr
+title: About Findr
 ---
 
 We are a team based in the [School of Computing, National University of Singapore](https://www.comp.nus.edu.sg).
